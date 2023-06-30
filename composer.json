@@ -1,0 +1,17 @@
+{
+    "name": "hilmi-ali/e-learning",
+    "autoload": {
+        "psr-4": {
+            "HilmiAli\\ELearning\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HilmiAliSalsabila",
+            "email": "alihilmi93@gmail.com"
+        }
+    ],
+    "require": {
+        "spipu/html2pdf": "^5.2"
+    }
+}
